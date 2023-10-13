@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nnaleche
+- 🌱Web Development
 - 👀 I’m interested in Penetration Testing
-- 🌱 I’m currently learning Cyber Defence
 - 💞️ I’m looking to collaborate on Cloud Defence
 - 📫 How to reach me 
 - Search 

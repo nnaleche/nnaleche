@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nnaleche
-- 🌱Web Development
+- 🌱Ecommerce Web Development & SEO
 - 💞️ I’m looking to collaborate on Ecommerce Web Design and SEO
 - 📫 How to reach me 
 - https://www.linkedin.com/in/nnaleche/

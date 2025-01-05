@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @nnaleche
 - 🌱Web Development
-- 👀Penetration Testing
-- 💞️ I’m looking to collaborate on Cloud Defence
+- 💞️ I’m looking to collaborate on Ecommerce Web Design and SEO
 - 📫 How to reach me 
-- Search 
+- https://www.linkedin.com/in/nnaleche/
+- Google Search 
 
 <!---
 nnaleche/nnaleche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
